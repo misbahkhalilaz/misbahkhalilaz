@@ -2,7 +2,7 @@
     <a href="https://github.com/misbahkhalilaz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbahkhalilaz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahkhalilaz&layout=compact&langs_count=7&theme=monokai"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misbahkhalilaz&theme=solarized_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misbahkhalilaz&theme=monokai" />
 </div>
 
 <div style="display: inline_block"><br>
