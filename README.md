@@ -19,7 +19,7 @@
 </div>
 
  &nbsp;   
-[![](https://visitcount.itsvg.in/api?id=misbahkhalilaz&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<img width="0" height="0" src="https://visitcount.itsvg.in/api?id=misbahkhalilaz&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in" />
 
 </a>
 
